@@ -1,2 +1,3 @@
 .*.py.swp
-crap.py
+crap*.py
+programmingNotes.txt
